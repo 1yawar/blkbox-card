@@ -1,0 +1,11 @@
+.card{
+    width: 80vw;
+    height: 100vh;
+    border: 1px solid white;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+    background: linear-gradient(153deg, hsla(0, 0%, 100%, .15) -1.02%, hsla(0, 0%, 100%, 0) 53.04%);
+    box-shadow: 0 6px 32px 0 rgba(0, 0, 0, .12), -5px -5px 250px 0 hsla(0, 0%, 100%, .02);
+}
+
